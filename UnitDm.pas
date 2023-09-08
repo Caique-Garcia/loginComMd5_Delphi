@@ -14,6 +14,7 @@ type
   TDM = class(TDataModule)
     Conexao: TFDConnection;
     Qry: TFDQuery;
+    procedure DataModuleCreate(Sender: TObject);
   private
     { Private declarations }
   public
@@ -28,5 +29,16 @@ implementation
 {%CLASSGROUP 'Vcl.Controls.TControl'}
 
 {$R *.dfm}
+
+procedure TDM.DataModuleCreate(Sender: TObject);
+var
+  BancoLocal: String;
+
+begin
+  BancoLocal:= ParamStr(0);
+  BancoLocal:= ExtractFilePath(BancoLocal) + 'db.db';
+  Conexao.Params.Database := BancoLocal;
+  Conexao.Connected := True;
+end;
 
 end.
