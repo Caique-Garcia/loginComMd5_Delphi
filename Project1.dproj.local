@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/08 08:19:45.000.597,=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 08:20:26.000.074,C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit1.dfm</Transaction>
+    <Transaction>2023/09/08 08:20:26.000.074,C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 08:20:32.000.201,C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Project1.dproj</Transaction>
+    <Transaction>2023/09/08 09:50:03.155,=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 09:51:11.430,C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Cadastro.pas=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 09:51:11.430,C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Cadastro.dfm=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.dfm</Transaction>
+    <Transaction>2023/09/08 10:27:44.286,=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 10:29:56.332,C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\UnitDm.dfm=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.dfm</Transaction>
+    <Transaction>2023/09/08 10:29:56.332,C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\UnitDm.pas=C:\Users\Caique\Documents\Caique\ESTUDOS\UsandoMD5\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
